@@ -1,0 +1,37 @@
+#home-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+
+#home-heading {
+    font-size: 2rem;
+    margin: 20px 0;
+    color: #333;
+}
+
+#home-description {
+    font-size: 1.2rem;
+    margin: 20px 0;
+    color: #666;
+}
+
+#button-container {
+    margin: 20px 0;
+}
+
+.button {
+    font-size: 1rem;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
